@@ -1,2 +1,1 @@
-# .github
 Agent Day workshops
