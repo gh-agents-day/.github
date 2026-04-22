@@ -30,6 +30,7 @@
 - [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
 - [Git CLI](https://git-scm.com/install/)
 - [GitHub Copilot CLI](https://github.com/features/copilot/cli)
+- [GitHub MCP Server](https://github.com/github/github-mcp-server)
 
 #### Spec-driven development
 - [Speckit](https://github.com/github/spec-kit)
