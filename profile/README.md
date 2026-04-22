@@ -24,11 +24,23 @@
 
 ### Software Requirements
 
+#### Common prerequisites
+
 - [VS Code](https://code.visualstudio.com/download) 
 - [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
 - [Git CLI](https://git-scm.com/install/)
 - [GitHub Copilot CLI](https://github.com/features/copilot/cli)
+
+#### Spec-driven development
+- [Speckit](https://github.com/github/spec-kit)
+- [UV](https://docs.astral.sh/uv/getting-started/installation/)
+
+#### Migration and Modernization
 - [GitHub Copilot App Modernization](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure)
+- **Java**: Java JDK for both the source and target JDK versions. Maven or Gradle to build Java projects (JDK 8, JDK 17/21, Spring Boot 1.5.9, and Maven 3.8+).
+- **.NET**: .NET 8.0 SDK, .NET Framework 4.8.2, and ASP.NET MVC 5.
+
+#### Automation Testing with Playwright
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp)
 
 ### Language-Specific Requirements
