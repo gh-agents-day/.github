@@ -8,47 +8,47 @@
 | Claude Sonnet 4.6 | Approx 7.5 million | Approx $4.86 |
 
 ### Migrate and Modernize with GitHub Copilot (Java and .NET)
-1. [Migrate and Modernize with GitHub Copilot](https://github.com/gh-agents-day/Migrate-and-modernize-with-GHCP)
+2. [Migrate and Modernize with GitHub Copilot](https://github.com/gh-agents-day/Migrate-and-modernize-with-GHCP)
 
 | ModelUsed | Tokens Consumed | Price |
 | --- | --- | --- |
 | Claude Sonnet 4.6 | Approx 8 million | Approx $5.18 |
 
 ### Debugging with Agents
-1. [Debugging](https://github.com/gh-agents-day/Debugging-with-Agents)
+3. [Debugging](https://github.com/gh-agents-day/Debugging-with-Agents)
 
 | ModelUsed | Tokens Consumed | Price |
 | --- | --- | --- |
 | Claude Sonnet 4.6 | Approx 5 million | Approx $3.24 |
 
 ### Security Review with Agents
-1. [Security review with agents](https://github.com/gh-agents-day/Security-and-review-with-GHCP)
+4. [Security review with agents](https://github.com/gh-agents-day/Security-and-review-with-GHCP)
 
 | ModelUsed | Tokens Consumed | Price |
 | --- | --- | --- |
 | Claude Sonnet 4.6 | Approx 5 million | Approx $3.24 |
 
-1. [Debugging and Security Review with GHCP](https://github.com/gh-agents-day/Debug-Security-Review-with-GHCP)
+5. [Debugging and Security Review with GHCP](https://github.com/gh-agents-day/Debug-Security-Review-with-GHCP)
 
 | ModelUsed | Tokens Consumed | Price |
 | --- | --- | --- |
 | Claude Sonnet 4.6 | Approx 6 million | Approx $3.89 |
 
 ### Automation Testing with Playwright
-1. [Automation with GitHub Copilot using Playwright and MCP - Java](https://github.com/gh-agents-day/Playwright-automation-with-Java)
+6. [Automation with GitHub Copilot using Playwright and MCP - Java](https://github.com/gh-agents-day/Playwright-automation-with-Java)
 
 | ModelUsed | Tokens Consumed | Price |
 | --- | --- | --- |
 | Claude Sonnet 4.6 | Approx 5 million | Approx $3.24 |
 
-1. [Automation with GitHub Copilot using Playwright and MCP - JavaScript](https://github.com/gh-agents-day/Rode-runner-Automation-playwright)
+7. [Automation with GitHub Copilot using Playwright and MCP - JavaScript](https://github.com/gh-agents-day/Rode-runner-Automation-playwright)
 
 | ModelUsed | Tokens Consumed | Price |
 | --- | --- | --- |
 | Claude Sonnet 4.6 | Approx 5 million | Approx $3.24 |
 
 ### E2E SDLC
-1. [End-to-End SDLC with GitHub Copilot and Custom Agents](https://github.com/gh-agents-day/E2E-SDLC-using-GitHub-Copilot)
+8. [End-to-End SDLC with GitHub Copilot and Custom Agents](https://github.com/gh-agents-day/E2E-SDLC-using-GitHub-Copilot)
 
 | ModelUsed | Tokens Consumed | Price |
 | --- | --- | --- |
