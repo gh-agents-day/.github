@@ -2,7 +2,7 @@
 
 ### Spec-Driven Development
 1. [Spec Driven Development with GitHub Copilot - Java](https://github.com/gh-agents-day/Speckit-and-beyond-Java) - Spec driven development to enhance a brownfield application
-2. [Spec Driven Development with GitHub Copilot - Python](https://github.com/gh-agents-day/Speckit-and-beyond-Java) - Spec driven development to enhance a brownfield application
+2. [Spec Driven Development with GitHub Copilot - Python](https://github.com/gh-agents-day/Spec-Driven-Development-with-Github-Copilot-Python) - Spec driven development to enhance a brownfield application
 
 | ModelUsed | Tokens Consumed | Price |
 | --- | --- | --- |
